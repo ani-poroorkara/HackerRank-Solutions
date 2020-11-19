@@ -5,4 +5,4 @@ HackerRank Solutions to various problems
 1. Algorithms
 
 ### 1. Algorithms
-1. Sorting
+1. [Sorting](https://github.com/ani-poroorkara/HackerRank-Solutions/tree/master/Algorithms/Sorting)
